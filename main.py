@@ -1,4 +1,4 @@
-n = (input("Digite um numero:\n"))
+n = (input("Digite sua idade atual:\n"))
 print(" ")
 
 
