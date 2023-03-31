@@ -1,7 +1,7 @@
 id = int(input(" "))
 
 if id < 0:
-  print("impossivel!")
+  print("impossível!")
 elif 0 < id < 18:
   print("não precisa se alistar.")
 elif 18 < id < 65:
